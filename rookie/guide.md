@@ -100,18 +100,20 @@ Good references for various programming languages
 ### Good Reads
 
 From [Leslie Lamport](https://en.wikipedia.org/wiki/Leslie_Lamport)
+
 Leslie Lamport in an interview about "Blueprint" of software (specification)
-- [Link](https://www.wired.com/2013/01/code-bugs-programming-why-we-need-specs/)
-- [Link](http://lamport.azurewebsites.net/pubs/pubs.html)
+
+- [Why we need specs?](https://www.wired.com/2013/01/code-bugs-programming-why-we-need-specs/)
+
+- [Publications](http://lamport.azurewebsites.net/pubs/pubs.html)
 
 Scalable Network Programming (The Quest For A Good Web Server)
- - http://bulk.fefe.de/scalable-networking.pdf
+ - [Scalable Networking](http://bulk.fefe.de/scalable-networking.pdf)
 
 ## Welcome to Amagi
 ---
 
 > Thanks for enjoying these cartoons from https://xkcd.com/. We wish you have learned valuable lessons. Lastly, thanks for visiting this page.
-{.is-success}
 
 
 ![software_development.png](software_development.png)
