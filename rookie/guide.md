@@ -35,22 +35,22 @@ dateCreated: 2021-06-03T07:10:10.956Z
 ## NEXT
 ---
 
-1. How do containers work?:
+* How do containers work?:
 Once those OS & computer architecture concepts solidify in your mind, you will find this series on container internals useful:
 [Link](https://medium.com/@saschagrunert/demystifying-containers-part-i-kernel-space-2c53d6979504)
 
-2. Kubernetes 101:
+* Kubernetes 101:
 This is an internal training for Kubernetes
 
-3. Network programming with Go:
+* Network programming with Go:
 
-[Go](https://ipfs.io/ipfs/QmfYeDhGH9bZzihBUDEQbCbTc5k5FZKURMUoUvfmc27BwL/index.html)
+   * [Go](https://ipfs.io/ipfs/QmfYeDhGH9bZzihBUDEQbCbTc5k5FZKURMUoUvfmc27BwL/index.html)
 
-4. OS Theory ++:
+* OS Theory ++:
 
-[OS Theory](https://www.classcentral.com/course/udacity-gt-refresher-advanced-os-4734)
+   * [OS Theory](https://www.classcentral.com/course/udacity-gt-refresher-advanced-os-4734)
 
-[Advanced Operating Systems](https://www.classcentral.com/course/udacity-advanced-operating-systems-1016)
+   * [Advanced Operating Systems](https://www.classcentral.com/course/udacity-advanced-operating-systems-1016)
 
 Lessons **6** & **8** may appear difficult to understand, and hence be patient with yourself and can also be ignored safely.
 
@@ -60,11 +60,11 @@ Lessons **6** & **8** may appear difficult to understand, and hence be patient w
 ## LATER
 ---
 
-1. Some SQL play (when ActiveRecord generates mysterious SQL):
+* Some SQL play (when ActiveRecord generates mysterious SQL):
 
 [Link](https://www.udemy.com/course/master-sql-for-data-science/)
 
-2. Next level SQL (optional):
+*  Next level SQL (optional):
 
 [Link](https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/)
 
