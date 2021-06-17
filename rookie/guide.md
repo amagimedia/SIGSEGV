@@ -11,6 +11,7 @@ dateCreated: 2021-06-03T07:10:10.956Z
 # The Guide
 
 ## NOW
+---
 
 ### OS Theory
 
@@ -24,6 +25,7 @@ dateCreated: 2021-06-03T07:10:10.956Z
 #### Unix survival skills:
 
 [Advanced Unix Commands](https://www.udemy.com/course/advance-unix-commands/)
+
 [Advance Unix File Processing](https://www.udemy.com/course/advance-unix-file-processing/)
 
 ![cautionary.png](cautionary.png)
@@ -31,6 +33,7 @@ dateCreated: 2021-06-03T07:10:10.956Z
 ![incident.png](incident.png)
 
 ## NEXT
+---
 
 1. How do containers work?:
 Once those OS & computer architecture concepts solidify in your mind, you will find this series on container internals useful:
@@ -40,7 +43,7 @@ Once those OS & computer architecture concepts solidify in your mind, you will f
 This is an internal training for Kubernetes
 
 3. Network programming with Go:
-4. 
+
 [Go](https://ipfs.io/ipfs/QmfYeDhGH9bZzihBUDEQbCbTc5k5FZKURMUoUvfmc27BwL/index.html)
 
 4. OS Theory ++:
@@ -55,6 +58,7 @@ Lessons **6** & **8** may appear difficult to understand, and hence be patient w
 
 
 ## LATER
+---
 
 1. Some SQL play (when ActiveRecord generates mysterious SQL):
 
@@ -69,6 +73,7 @@ Lessons **6** & **8** may appear difficult to understand, and hence be patient w
 ![tech_loops.png](tech_loops.png)
 
 # Books
+---
 
 ### First things first!
 
@@ -103,6 +108,7 @@ Scalable Network Programming (The Quest For A Good Web Server)
  - http://bulk.fefe.de/scalable-networking.pdf
 
 ## Welcome to Amagi
+---
 
 > Thanks for enjoying these cartoons from https://xkcd.com/. We wish you have learned valuable lessons. Lastly, thanks for visiting this page.
 {.is-success}
